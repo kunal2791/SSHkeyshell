@@ -1,5 +1,7 @@
 #########################################################
-         Shell script to update user public_keys
+
+Shell script to update user public_keys
+
 #########################################################
 We have used 3 list "1" is for environment "2" is for servers under that environment "3" we have created for tc servers if we want to limit user to tc servers only. (you can modify or take example of any one)
 
