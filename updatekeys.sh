@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # !/bin/bash
-# Author " Rohit Miglani "
+# Author " Kunal Jha "
 # Global variables
 
 env="demo performance test smb-test smb-demo  tc-server"
